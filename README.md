@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hezbyuns
+- 👀 I’m interested in any software engineering topics
+- 🌱 I’m currently learning Ruby, Golang, Typescript
+- 💞️ I’m looking to collaborate on any interesting topic
+- 📫 How to reach me email me at hezby@student.uns.ac.id
